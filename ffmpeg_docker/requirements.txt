@@ -1,0 +1,6 @@
+torch>=1.2.0
+torchvision>=0.4.0
+opencv-python>=3.4.8.29,<4.0
+dlib
+pillow>=6.1
+glob2
